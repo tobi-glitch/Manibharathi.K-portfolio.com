@@ -1,0 +1,43 @@
+{
+  "name": "Manibharathi.K",
+  "tagline": "AI & Data Science Engineer",
+  "about": "2nd-year B.Tech (AI & Data Science) student with a strong academic record and real-world project experience in data analytics, machine learning, and BI tools. Quick learner, detail-oriented, and eager to apply data skills to solve real problems.",
+  "contact": {
+    "phone": "+91 9952213543",
+    "email": "appu5009u@gmail.com",
+    "location": "Coimbatore, Tamil Nadu",
+    "github": "https://github.com/toitobi-il-glitch",
+    "github_portfolio": "https://github.com/tobi-glitch/Manibharathi.K-portfolio.com",
+    "linkedin": "https://linkedin.com/in/manibharathi-k-762403308/",
+    "linkedin_short": "https://linkedin.com/tobi-glitch"
+  },
+  "education": [
+    {
+      "degree": "B.Tech — Artificial Intelligence & Data Science",
+      "institution": "Anna University Regional Campus, Coimbatore",
+      "year": "2023 – Present",
+      "icon": "🎓"
+    },
+    {
+      "degree": "Higher Secondary Certificate (Class XII)",
+      "institution": "Tamil Nadu State Board",
+      "year": "2023",
+      "icon": "🏫"
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "R"],
+    "databases": ["SQL", "PostgreSQL", "MySQL", "MongoDB"],
+    "bi_tools": ["Tableau", "Power BI", "MS Excel", "PowQuery"],
+    "tools": ["PowerPoint"],
+    "core_areas": [
+      "Data Analysis",
+      "Machine Learning",
+      "Predictive Modeling",
+      "Dashboard Design"
+    ]
+  },
+  "certifications": [],
+  "projects": [],
+  "achievements": []
+}
